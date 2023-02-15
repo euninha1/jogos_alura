@@ -3,3 +3,17 @@ melancia
 morango
 uva
 manga
+abacaxi
+carambola
+caju
+jaca
+caqui
+cereja
+castanha
+graviola
+melao
+laranja
+limao
+mangaba
+pitanga
+tangerina
